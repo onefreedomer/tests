@@ -10,3 +10,8 @@ echo %hello%
 ```properties
 GRUB_DISABLE=false
 ```
+
+```properties
+nameserver 9.9.9.9
+nameserver 149.112.112.112
+```
