@@ -1,3 +1,3 @@
-```resolv.conf
+```conf
 nameserver 1.1.1.1
 ```
