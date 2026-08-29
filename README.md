@@ -1,3 +1,5 @@
-```conf
-nameserver 1.1.1.1
+```console
+# ls ; dir ; cls ; clear
+# xchroot /mnt
+[xchroot /mnt] # ls ; dir ; cls ; clear # comment
 ```
