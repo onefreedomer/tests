@@ -16,3 +16,21 @@ npm
 nameserver 9.9.9.9
 nameserver 149.112.112.112
 ```
+
+```bash
+foo@bar:~$ whoami
+foo
+```
+
+#set raw(theme: "halcyon.tmTheme")
+#show raw: it => block(
+  fill: rgb("#1d2433"),
+  inset: 8pt,
+  radius: 5pt,
+  text(fill: rgb("#a2aabc"), it)
+)
+
+```bash
+foo@bar:~$ whoami
+foo
+```
