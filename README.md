@@ -6,3 +6,7 @@
 set hello=3
 echo %hello%
 ```
+
+```properties
+GRUB_DISABLE=false
+```
