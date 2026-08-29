@@ -1,1 +1,3 @@
-# tests
+```resolv
+nameserver 1.1.1.1
+```
